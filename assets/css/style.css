@@ -37,7 +37,7 @@ i {
 }
 
 .jumbotron {
-	background-image: url("../img/cafe.png");
+	background-image: url("../assets/img/cafe.png");
 	background-size: cover;
 	background-position: center center;
 	//background-attachment: fixed; 
