@@ -37,7 +37,7 @@ i {
 }
 
 .jumbotron {
-	background: url("https://github.com/mguery/side-project-cafe/blob/gh-pages/assets/img/cafe.PNG");
+	background: url("../assets/img/cafe.PNG");
 	background-size: cover;
 	background-position: center center;
 	//background-attachment: fixed; 
